@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1523820164 source:d:\study\onlinevotingsystem\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+
